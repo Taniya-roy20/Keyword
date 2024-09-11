@@ -5,7 +5,7 @@
 Desktop mainly divided into three parts- 1. Computation 2.Storage 3. Network
 <BR>
 <BR>
-**COMUTATION:-**
+**COMPUTATION:-**
 <br>
 <BR>
 (i) *CPU*(Central Processing Unit): The primary processor that executes instructions. It is used for interpretation, processes and executions often to referred to as the "brain" of the computer.
@@ -95,8 +95,134 @@ A System on Chip or an SoC is an integrated circuit that incorporates a majority
  It is the virtualization or emulation of a computer system. Virtual machines are based on computer architectures and provide the functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination of the two. VMs provide isolation, encapsulation, and resource efficiency, making them valuable for development, testing, and production environments. They come in two main types: system virtual machines, which emulate entire systems, and process virtual machines, which abstract individual applications.
  <br>
  <br>
- **Kernel**
+ **KERNEL**
  <br>
+ It is a computer program at the core of a computer's operation system and generally has complete control over everything in the system. It is also responsible for preventing and mitigating conflicts between different processes. 
+ <BR>
+ Example : Linux 
+ <BR>
+ <BR>
+ **FPGA(field programmable gate array)**:
+ <BR>
+ A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.This feature sets FPGAs apart from Application Specific Integrated Circuits (ASICs).
+ <BR>
+ <BR>
+ **GDPR**
+ <BR>
+ general data protection regulation 
+ <BR>
+ <BR>
+ **IP ADDRESS**
+ <BR>
+ An Internet Protocol address (IP address) is a numerical label that is assigned to a device connected to a computer network that uses the Internet Protocol for communication.IP addresses serve two main functions: network interface identification, and location addressing.They are essential for routing internet traffic and ensuring data reaches the correct destination.
+ <br>
+ Types of IP address :- 
+ <br>
+1. Private
+  <br>
+2. Public
+  <br>
+3. Local
+ <br> 
+ <br>
+ **SSL(secure socket layer)**  
+ <br>
+  security protocol that creates an encrypted link between a web server and a web browser. ip address[layer3]+ port number[layer4]
+  <br>
+  <br>
+  **Port number**
+  <br>
+  a port or port number is a number assigned to uniquely identify a connection endpoint and to direct data to a specific service. A way to indentify a specific process to which an internet or other network message is to be forwarded when it arrives at a server. eg: HTTP-80 HTTPS-443 FTP-20.
+  <BR>
+  <BR>
+  **DSL (Digital Subscriber Line)**:
+  <BR>
+  It is a family of technologies that are used to transmit digital data over telephone lines.
+  <br>
+  <br>
+  **ISP(Internet Service Provider)**:
+  <br>
+  <br>
+  An Internet service provider (ISP) is an organization that provides services related to accessing, using, managing, or participating in the Internet. ISPs can be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned. Internet services typically provided by ISPs can include internet access, internet transit, domain name registration, web hosting, and colocation.
+  <br>
+  <br>
+ **Cable**:
+ <br>
+ Uses cable television lines for internet service.
+<br>
+<br>
+**Fiber-optic**:
+<br>
+Uses fiber-optic cables for high-speed internet access.
+<br>
+<br>
+**Wireless**:
+<br>
+Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
+<br>
+<br>
+**Satellite:**
+<br>
+Provides internet access via satellite signals, useful in remote areas.
+<br>
+<br>
+**Wireless:**
+<br>
+Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
+<br>
+<br>
+**VPN(Virtual Private Network):**
+<br>
+VPN is a set of technologies which are used to link computers to create a private network. Another network is used to carry the data, which is encrypted. The carrier network will see the packets of data which it routes. To the users of the VPN, it will look like the computers were directly connected to each other. When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
+<br>
+<br>
+**DNS(Domain Name System):**
+<br>
+It is a server responsible for keeping the file that contains information about the domain name and corresponding IP addresses as well as to provide information about the domain name and IP address during the DNS query.
+<BR>
+<BR>
+**FRONTEND,BACKEND AND API(Application Programming Interface)**
+<BR>
+In web development, the terms frontend, backend, and API refer to different aspects of building and managing applications:
+<BR>
+<BR>
+*FRONTEND:* Frontend refers to the client-side of a web application. It encompasses everything that users interact with directly in their web browsers. It is the development of the graphical user interface of a website through the use of HTML, CSS, and JavaScript so users can view and interact with that website.
+<br>
+<br>
+*BACKEND:* Backend refers to the server-side of a web application. It involves everything that happens on the server and is responsible for managing and processing data.
+<BR>
+<BR>
+*API:* An application programming interface is a way for two or more computer programs or components to communicate with each other. It is a type of software interface, offering a service to other pieces of software.The term API may refer either to the specification or to the implementation. Whereas a system's user interface dictates how its end-users interact with the system in question, its API dictates how to write code that takes advantage of that system's capabilities.APIs can be used to connect Frontend and Backend.
+<BR>
+<BR>
+**The 7 layers of OSI model:**
+<BR>
+<BR>
+#:-Layer 7 : (Application Layer) - The application layer is used by end-user software such as web browsers and email clients.
+<BR>
+<BR>
+#:-Layer 6 : (Presentation Layer )- The presentation layer prepares data for the application layer. It defines how two devices should encode, encrypt, and compresses data so it is received correctly on the other end.
+<BR>
+<BR>
+#:-Layer 5 : (Session Layer )- The session layer creates communication channels, called sessions, between devices.
+<BR>
+<BR>
+#:-Layer 4 : (Transport Layer )- The transport layer takes data transferred in the session layer and breaks it into “segments” on the transmitting end.
+<BR>
+<BR>
+#:-Layer 3 : ((Networking Layer) - The network layer has two main functions. One is breaking up segments into network packets, and reassembling the packets on the receiving end.
+<BR>
+<BR>
+#:-Layer 2 : (Data-Link-Layer) - The data link layer establishes and terminates a connection between two physically-connected nodes on a network.
+<BR>
+<BR>
+#:-Layer 1 :( Physical Layer) - The physical layer is responsible for the physical cable or wireless connection between network nodes.
+
+
+
+  
+
+
  
  
  
