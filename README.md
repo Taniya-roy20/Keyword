@@ -209,6 +209,66 @@ In web development, the terms frontend, backend, and API refer to different aspe
 <BR>
 <BR>
 #:-Layer 1 :( Physical Layer) - The physical layer is responsible for the physical cable or wireless connection between network nodes.
+<BR>
+<BR>
+**Semiconductors**: It is an essential components of computers and other electronic devices.
+<br>
+<br>
+*FUNCTIONS*: It controls and manages the flow of electric current in electronic equipment and devices.
+<BR>
+<BR>
+*Production*: There are some companies in the word that produces the chips. As of 2023, Taiwan Semiconductor Manufacturing Company (TSMC) is the world's largest semiconductor chip manufacturer with a market share of over 50%. TSMC is followed by Samsung Electronics and Intel Corporation.
+<br>
+<br>
+*Architecture*: X-86- intel,AMD CISC- Intel,AMD RISC- ARM
+<br>
+<br>
+**HYPERVISOR**:
+<br>
+A program used to run and manage two or more virtual machine on a single physical machine. It's also known as a virtual machine monitor (VMM).
+<br>
+<br>
+There are two types of HYPERVISOR:- 
+<br>
+<br>
+**TYPE 1**
+<BR>
+Also known as a bare-metal or native hypervisor, this type of hypervisor runs directly on the host's hardware. It's more secure and stable than Type 2 hypervisors, and is often used in enterprise data centers and server-based environments. Type 1 hypervisors can implement their own resource allocation strategies for virtual machines (VMs). Examples of Type 1 hypervisors include Microsoft Hyper-V, VMware vSphere, and KVM.
+<BR>
+<BR>
+**TYPE 2**
+<BR>
+Also known as a hosted hypervisor, this type of hypervisor runs on top of an operating system as a software layer or application. Type 2 hypervisors are easier to install, configure, and use than Type 1 hypervisors, and are more user-friendly. However, Type 2 hypervisors are less efficient than Type 1 hypervisors because they negotiate resource allocation with the operating system. Examples of Type 2 hypervisors include VMware Workstation, Oracle VirtualBox, and Parallels Desktop.
+<BR>
+<BR>
+**Von Neumann architecture and harvard architecture**:
+<BR>
+The term "von Neumann architecture" has evolved to refer to any stored-program computer in which an instruction fetch and a data operation cannot occur at the same time
+<BR>
+<BR>
+**Packets**:
+<BR>
+Its a small segment of a large message. Data send over computer networks, such as internt, is divided into packets, recombined by client computer.
+<br>
+<br>
+**apache**:
+<br>
+The Apache HTTP Server is a free and open-source cross-platform web server software, released under the terms of Apache. It is developed and maintained by a community of developers under the auspices of the Apache Software Foundation.The vast majority of Apache HTTP Server instances run on a Linux distribution but current versions also run on Microsoft Windows,OpenVMS, and a wide variety of Unix-like systems.
+<br>
+<br>
+**proxy server**:
+<br>
+It is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource. It improves privacy, security, and possibly performance in the process.
+<br>
+<br>
+**Load balancer**:
+<br>
+It is the method of distributing network traffic eqaully across a pull of resources that support an application.
+<br>
+<br>
+
+
+
 
 
 
