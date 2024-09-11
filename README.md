@@ -115,17 +115,9 @@ A System on Chip or an SoC is an integrated circuit that incorporates a majority
  **IP ADDRESS**
  <BR>
  An Internet Protocol address (IP address) is a numerical label that is assigned to a device connected to a computer network that uses the Internet Protocol for communication.IP addresses serve two main functions: network interface identification, and location addressing.They are essential for routing internet traffic and ensuring data reaches the correct destination.
- <br>
- Types of IP address :- 
- <br>
-1. Private
-  <br>
-2. Public
-  <br>
-3. Local
  <br> 
  <br>
- **SSL(secure socket layer)**  
+ **SSL(SECURE SOCKET LAYER)**   
  <br>
   security protocol that creates an encrypted link between a web server and a web browser. ip address[layer3]+ port number[layer4]
   <br>
